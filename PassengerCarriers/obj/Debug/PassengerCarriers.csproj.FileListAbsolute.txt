@@ -1,0 +1,9 @@
+D:\source\repos\Lab4NET\PassengerCarriers\bin\Debug\PassengerCarriers.dll
+D:\source\repos\Lab4NET\PassengerCarriers\bin\Debug\PassengerCarriers.pdb
+D:\source\repos\Lab4NET\PassengerCarriers\bin\Debug\Animals.dll
+D:\source\repos\Lab4NET\PassengerCarriers\bin\Debug\Animals.pdb
+D:\source\repos\Lab4NET\PassengerCarriers\obj\Debug\PassengerCarriers.csproj.AssemblyReference.cache
+D:\source\repos\Lab4NET\PassengerCarriers\obj\Debug\PassengerCarriers.csproj.CoreCompileInputs.cache
+D:\source\repos\Lab4NET\PassengerCarriers\obj\Debug\PassengerCarriers.csproj.CopyComplete
+D:\source\repos\Lab4NET\PassengerCarriers\obj\Debug\PassengerCarriers.dll
+D:\source\repos\Lab4NET\PassengerCarriers\obj\Debug\PassengerCarriers.pdb

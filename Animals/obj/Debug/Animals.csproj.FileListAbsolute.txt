@@ -1,0 +1,6 @@
+D:\source\repos\Lab4NET\Animals\bin\Debug\Animals.dll
+D:\source\repos\Lab4NET\Animals\bin\Debug\Animals.pdb
+D:\source\repos\Lab4NET\Animals\obj\Debug\Animals.csproj.AssemblyReference.cache
+D:\source\repos\Lab4NET\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+D:\source\repos\Lab4NET\Animals\obj\Debug\Animals.dll
+D:\source\repos\Lab4NET\Animals\obj\Debug\Animals.pdb

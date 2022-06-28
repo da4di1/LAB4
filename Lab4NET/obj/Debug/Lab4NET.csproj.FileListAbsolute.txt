@@ -1,0 +1,12 @@
+D:\source\repos\Lab4NET\Lab4NET\bin\Debug\Lab4NET.exe.config
+D:\source\repos\Lab4NET\Lab4NET\bin\Debug\Lab4NET.exe
+D:\source\repos\Lab4NET\Lab4NET\bin\Debug\Lab4NET.pdb
+D:\source\repos\Lab4NET\Lab4NET\bin\Debug\Animals.dll
+D:\source\repos\Lab4NET\Lab4NET\bin\Debug\PassengerCarriers.dll
+D:\source\repos\Lab4NET\Lab4NET\bin\Debug\Animals.pdb
+D:\source\repos\Lab4NET\Lab4NET\bin\Debug\PassengerCarriers.pdb
+D:\source\repos\Lab4NET\Lab4NET\obj\Debug\Lab4NET.csproj.AssemblyReference.cache
+D:\source\repos\Lab4NET\Lab4NET\obj\Debug\Lab4NET.csproj.CoreCompileInputs.cache
+D:\source\repos\Lab4NET\Lab4NET\obj\Debug\Lab4NET.csproj.CopyComplete
+D:\source\repos\Lab4NET\Lab4NET\obj\Debug\Lab4NET.exe
+D:\source\repos\Lab4NET\Lab4NET\obj\Debug\Lab4NET.pdb
